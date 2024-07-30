@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be
 * ##### I'm 12 Years Old 🌲
 --- 
 
-# My Skills
+# My Skills ⚒️
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,angular,react,net,cs,figma,rider,lua,ts,nodejs,python)](https://skillicons.dev)
