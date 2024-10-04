@@ -17,5 +17,5 @@ src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be
 <h2 align="center">My Skills ⚒️</h2> 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,angular,react,net,php,cs,figma,rider,lua,nodejs,python,git,github,photoshop)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,angular,react,net,php,cs,figma,rider,lua,nodejs,python,git,github,photoshop,laravel)
 
