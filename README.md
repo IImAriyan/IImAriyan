@@ -53,23 +53,9 @@ const ariyan = {
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/IImAriyan/Timer-App-Angular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Timer-App-Angular&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-  </a>
-  <a href="https://github.com/IImAriyan/TodoList-Laravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=TodoList-Laravel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/IImAriyan/UserSystem-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=UserSystem-API&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-  </a>
-  <a href="https://github.com/IImAriyan/7th-grade-math">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=7th-grade-math&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
-  </a>
-</div>
+
+
 
 <h2>📈 GitHub Stats</h2>
 <div align="center">
