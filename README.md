@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ariyan;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Ariyan;A+Passionate+Developer+from+Iran&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <p align="left"> 
@@ -17,14 +17,14 @@
 
 ```javascript
 const ariyan = {
-    lastUpdate: "2025-02-20 14:01:12",  // Updated to current time
+    lastUpdate: "2025-02-20 14:10:04",
     location: "Iran",
     currentFocus: "Web Development & Software Engineering",
     workingOn: "Visual-AI-Projects",
     learning: ["React", "Node.js", "Python", "Docker"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
     technologies: {
-        frontEnd: ["React","Angular", "HTML", "CSS", "JavaScript"],
+        frontEnd: ["React", "HTML", "CSS", "JavaScript"],
         backEnd: ["Node.js", "Python", "Express"],
         databases: ["MongoDB", "MySQL"],
         devOps: ["Docker", "Git", "GitHub Actions"],
@@ -37,19 +37,37 @@ const ariyan = {
 
 <div align="center">
   <a href="https://github.com/IImAriyan/Visual-AI-Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Visual-AI-Projects&theme=dark&bg_color=000000&hide_border=true&icon_color=orange&title_color=orange&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Visual-AI-Projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
   </a>
-  <a href="https://github.com/IImAriyan/Game-Center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Game-Center&theme=dark&bg_color=000000&hide_border=true&icon_color=orange&title_color=orange&text_color=ffffff" />
+  <a href="https://github.com/IImAriyan/ProResume-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=ProResume-Builder&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
   </a>
 </div>
-<br>
+
+<div align="center">
+  <a href="https://github.com/IImAriyan/Game-Center-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Game-Center-Backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  </a>
+  <a href="https://github.com/IImAriyan/RestaurantMenu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=RestaurantMenu&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/IImAriyan/Timer-App-Angular">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Timer-App-Angular&theme=dark&bg_color=000000&hide_border=true&icon_color=orange&title_color=orange&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=Timer-App-Angular&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
   </a>
-  <a href="https://github.com/IImAriyan/TodoListAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=TodoListAPI&theme=dark&bg_color=000000&hide_border=true&icon_color=orange&title_color=orange&text_color=ffffff" />
+  <a href="https://github.com/IImAriyan/TodoList-Laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=TodoList-Laravel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/IImAriyan/UserSystem-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=UserSystem-API&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
+  </a>
+  <a href="https://github.com/IImAriyan/7th-grade-math">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IImAriyan&repo=7th-grade-math&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" />
   </a>
 </div>
 
@@ -104,15 +122,6 @@ const ariyan = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IImAriyan&theme=tokyo-night&hide_border=true&bg_color=000000&color=ffffff&line=orange&point=ffffff" alt="GitHub Activity Graph" />
 </p>
-
-<div align="center">
-  <h2>🎯 Profile Summary</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IImAriyan&theme=monokai" alt="Profile Summary"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IImAriyan&theme=monokai" alt="Stats Card"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IImAriyan&theme=monokai&utcOffset=8" alt="Commits"/>
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
